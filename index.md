@@ -38,6 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### viz section
 <iframe src="https://public.tableau.com/views/CarSETprototype2/Dashboard1??:showVizHome=no&:embed=true"
- width="1200" height="860"></iframe>
+ width="900" height="600"></iframe>
 
  
