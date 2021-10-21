@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/Tomas-Mac-Uidhir/LinuxTime
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### viz section
+<iframe src="https://public.tableau.com/views/CarSETprototype2/Dashboard1??:showVizHome=no&:embed=true"
+ width="900" height="600"></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -36,8 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-### viz section
-<iframe src="https://public.tableau.com/views/CarSETprototype2/Dashboard1??:showVizHome=no&:embed=true"
- width="900" height="600"></iframe>
 
  
