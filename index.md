@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to LEAP Energy Modelling output  
 
 You can use the [editor on GitHub](https://github.com/Tomas-Mac-Uidhir/LinuxTime/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
