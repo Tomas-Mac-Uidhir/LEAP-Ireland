@@ -37,6 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ### viz section
-<iframe src="https://public.tableau.com/app/profile/mopplereffect/viz/CarSETprototype2/Dashboard1?:showVizHome=no&:embed=true"
+<iframe src="https://public.tableau.com/views/CarSETprototype2/Dashboard1??:showVizHome=no&:embed=true"
  width="1200" height="860"></iframe>
+
  
