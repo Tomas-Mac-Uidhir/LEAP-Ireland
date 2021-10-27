@@ -1,4 +1,4 @@
-# LinuxTime
+# LEAP Ireland
 
 This site will provide an overview and insights into the modelling outputs from the LEAP Ireland model.
 
